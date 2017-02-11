@@ -25,7 +25,9 @@
 * Probeweiße Fernsteuerung des RC Autos über die Software am PC
 
 **17.11.16 @Meisterwerkstadt Ramadan:**
-* Pedal Ausbauen
+* Ausbauen eines Gaspedals aus einem Ranault Unfallauto
+* Messen aller möglichen Wiederstände über alle Kontakte des Gaspedals
+* Feststellen der größten "Wiederstandsverschiebung" zwischen zwei Kontakten
 
 **24.11.16 @Daniel**
 * Pedal auslesen
@@ -43,4 +45,4 @@
 * Reichweite testen
 
 **20.01.17 @Schule**
-* 
+*
